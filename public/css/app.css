@@ -70,14 +70,14 @@ STYLESHEET INDEXING
     --color-dark: #27272E;
     --color-text-dark: #292930;
     --color-accent1: #FFDC60;
-    --color-accent2: #FAB8C4;
+    --color-accent2: #F5AF19;
     --color-blue-shade: #6865FF;
-    --color-link: #2522BA;
+    --color-link: #F12711;
     --color-mabel: #DBF8FF;
     --color-fog: #DBDEFF;
     --color-pink-shade: #FFD3DB;
     --color-peach: #FFEDDC;
-    --color-rose: #C75C6F;
+    --color-rose: #F5AF19;
     --color-chart1: #896BA7;
     --color-chart2: #BADEFF;
     --color-body: #525260;
@@ -2630,7 +2630,7 @@ Pagination
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .banner {
-        padding: 290px 0 200px;
+        padding: 200px 0 200px;
         margin-top: -130px;
     }
 }
@@ -4046,7 +4046,7 @@ margin-top: 2rem;
 }
 
 .pricing-table .pricing-header .title {
-    font-size: 40px;
+    font-size: 30px;
     margin-bottom: 8px;
     letter-spacing: -0.045em;
     -webkit-transition: var(--transition);
@@ -4086,7 +4086,7 @@ margin-top: 2rem;
 }
 
 .pricing-table .pricing-header .price-wrap .amount {
-    font-size: 64px;
+    font-size: 40px;
     line-height: 1;
     color: var(--color-primary);
     font-weight: 500;
@@ -6767,7 +6767,7 @@ margin-top: 2rem;
 
 .mainmenu > .menu-item-has-children .axil-submenu li a::after {
     content: "";
-    height: 1px;
+    height: 0;
     width: 0;
     background-color: var(--color-primary);
     position: absolute;
@@ -8440,11 +8440,15 @@ margin-top: 2rem;
 
 .footer-top {
     padding-bottom: 70px;
+    width: 30%;
+    margin: auto;
 }
 
 @media only screen and (max-width: 991px) {
     .footer-top {
         padding-bottom: 50px;
+        width: 100%;
+        margin: auto;
     }
 }
 
