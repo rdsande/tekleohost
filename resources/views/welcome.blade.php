@@ -44,7 +44,7 @@
                         <img src="media/icon/icon-3.png" alt="icon">
                     </div>
                     <div class="content">
-                        <h5 class="title"> <a href="service-design.html">Digital</a></h5>
+                        <h5 class="title"> <a href="{{ url('digital')}}">Digital</a></h5>
                         <p>We transform your business into a digital system. From registering your domain to productive web systems and apps.</p>
                         <a href="{{ url('digital')}}" class="more-btn">Find out more</a>
                     </div>
@@ -56,7 +56,7 @@
                         <img src="media/icon/icon-1.png" alt="icon">
                     </div>
                     <div class="content">
-                        <h5 class="title"> <a href="service-development.html">Branding</a></h5>
+                        <h5 class="title"> <a href="{{ url('branding')}}">Branding</a></h5>
                         <p>We help to make you recognizable and memorable. We create informative yet attractive designs. </p>
                         <a href="{{ url('branding')}}" class="more-btn">Find out more</a>
                     </div>
@@ -68,9 +68,9 @@
                         <img src="media/icon/icon-5.png" alt="icon">
                     </div>
                     <div class="content">
-                        <h5 class="title"> <a href="service-business.html">Solutions</a></h5>
+                        <h5 class="title"> <a href="#">Solutions</a></h5>
                         <p>Through research and experience we have some ready-made web solutions to cater for your various needs.</p>
-                        <a href="service-business.html" class="more-btn">Find out more</a>
+                        <a href="#" class="more-btn">Find out more</a>
                     </div>
                 </div>
             </div>
@@ -330,7 +330,7 @@
                 <div class="col-md-6 project mobile">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="single-portfolio.html">
+                            <a href="https://hotelseacliff.com">
                                 <img src="media/others/seacliff.jpg" alt="project">
                             </a>
                         </div>
@@ -348,7 +348,7 @@
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="single-portfolio.html">Zahra Water</a></h4>
+                            <h4 class="title"><a href="https://zahrawater.co.tz">Zahra Water</a></h4>
                             <span class="subtitle">Website, UI/Ux</span>
                         </div>
                     </div>
@@ -356,7 +356,7 @@
                 <div class="col-md-6 project branding">
                     <div class="project-grid">
                         <div class="thumbnail">
-                            <a href="single-portfolio.html">
+                            <a href="https://uniworld.co.tz">
                                 <img src="media/others/uniworld.jpg" alt="project">
                             </a>
                         </div>
@@ -374,7 +374,7 @@
                             </a>
                         </div>
                         <div class="content">
-                            <h4 class="title"><a href="single-portfolio.html">Kodon Construction</a></h4>
+                            <h4 class="title"><a href="https://kodon.co.tz">Kodon Construction</a></h4>
                             <span class="subtitle">Website, Wordpress</span>
                         </div>
                     </div>

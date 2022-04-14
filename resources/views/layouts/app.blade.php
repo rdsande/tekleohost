@@ -72,8 +72,8 @@
                                     <div class="mobile-nav-header">
                                         <div class="mobile-nav-logo">
                                             <a href="/">
-                                                <img class="light-mode" src="media/logo-2.svg" alt="Site Logo">
-                                                <img class="dark-mode" src="media/logo-3.svg" alt="Site Logo">
+                                                <img class="light-mode" src="media/tekleologo.svg" alt="Site Logo">
+                                                <img class="dark-mode" src="media/tekleologo2.svg" alt="Site Logo">
                                             </a>
                                         </div>
                                         <button class="mobile-menu-close" data-bs-dismiss="offcanvas"><i class="fas fa-times"></i></button>
@@ -215,6 +215,7 @@
                                 <div class="footer-newsletter">
                                     <h2 class="title">Get in touch!</h2>
                                     <p> Tekleoweb is a web design and hosting company based in Dar es salaam, Tanzania. Part of Tekleo Technologies. </p>
+                                    <a class="tel" href="tel:+255746371371"><i class="fas fa-phone"></i>+255 746 371 371</a>
                                     <!-- <form>
                                         <div class="input-group">
                                             <input type="email" class="form-control" placeholder="Email address">
@@ -322,7 +323,7 @@
                                 </address>
                                 <address class="address">
                                     <span class="title">We're Available 24/7. Call Now.</span>
-                                    <a class="tel" href="tel:8884562790"><i class="fas fa-phone"></i>+255 746 371 371</a>
+                                    <a class="tel" href="tel:+255746371371"><i class="fas fa-phone"></i>+255 746 371 371</a>
                                 </address>
                             </div>
                             <div class="contact-inner">
